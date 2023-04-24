@@ -1,16 +1,37 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# https://www.r1pfitness.com/
+- project: https://www.r1pfitness.com/
+  role: Primary Developer
+  duration: 2 Month
+  url: "https://www.r1pfitness.com/"
+  description: Ecommerce platform, shopify, payment integration, code customization
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
+- project: Prestigecom
+  role: Developer
   duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  url: "https://www.prestigecom.net.au/"
+  description: Ecommerce platform, based on zencart, payment integration, code customization
+
+# Springfield Community Outreach Group
+- project: Starfiredirect
+  role: Developer
+  duration: 6 Month
+  url: "https://starfiredirect.com/"
+  description: Ecommerce platform, based on oscommerce, payment integration, code customization
+
+# Springfield Community Outreach Group
+- project: Urgent.ly
+  role: Primary Developer, Team Lead
+  duration: 7 Year
+  url: "https://www.geturgently.com"
+  description: Custom platform for roadside assistance
+  
+# Springfield Community Outreach Group
+- project: Car Sharing Company
+  role: Primary Developer
+  duration: 3 Year
+  url: "https://www.goget.com.au/"
+  description: Online car sharing company, custom development based of customer need
